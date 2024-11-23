@@ -23,7 +23,7 @@ StockSage is a machine learning-powered stock prediction system that combines te
 ## Installation
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/stocksage.git
+git clone https://github.com/Nizar04/Advanced-Stock-Predicition.git
 cd stocksage
 
 # Create virtual environment
